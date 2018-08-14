@@ -132,7 +132,7 @@
 					surname: this.surname,
 			        dob: this.dob,
 			        policy: this.policy,
-			 startDate: this.startDate
+			        startDate: this.startDate
 				});
 							 							
 				setTimeout(()=>{
@@ -145,7 +145,7 @@
                 this.surname = ''
                 this.dob = ''
                 this.policy = ''
-					this.startDate = ''
+				this.startDate = ''
 pp.finish(); 				
 this.isDis = false
 this.$toasted.success('Success! Please wait..')          				

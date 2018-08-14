@@ -37,10 +37,12 @@
         </tbody>
       </table>
 </div>
+<!--
 <div style="margin-bottom:10px;">
 <h4 class="content-subhead is-center">Market capitalisation by currency</h4>
 <pie-chart :data="dataType"></pie-chart>
 </div>
+-->
      </div>
      <div class="pure-u-1 pure-u-md-1-8"></div>   
    </div>   
